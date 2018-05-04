@@ -1,0 +1,3 @@
+Gauge charts display data in a graph style that is similar to speedometers in automobiles. They also work well with multiple datasets but not one with a single dataset. In the following code, we have an example of a gauge chart, which is a very simple pygal chart. This time, we will use some new data; in this case, we will use a dataset that represents the space shuttle speed from the time of launch to 20 minutes.
+
+Let's look at our sample code and our chart in the following code snippet. Copy the code into your editor of choice, and ensure that you save the file to gauge_chart.svg:
